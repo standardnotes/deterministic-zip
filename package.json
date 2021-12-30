@@ -5,6 +5,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "repository": {
     "url": "git@github.com:standardnotes/deterministic-zip.git",
